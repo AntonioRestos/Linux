@@ -7,6 +7,12 @@ p{
     text-align: center;
 }
 
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
 .flip-container {
     -webkit-perspective: 500;
     -moz-perspective: 500;
